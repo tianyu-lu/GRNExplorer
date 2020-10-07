@@ -1,0 +1,14 @@
+Package: GRNExplorer
+Type: Package
+Title: Gene Regulatory Network Inference, Simulation, Visualization
+Version: 0.1.0
+Authors@R: person("T", "Lu", email = "tianyu.lu@mail.utoronto.ca", role = c("aut", "cre"))
+Maintainer: T Lu <tianyu.lu@mail.utoronto.ca>
+Description: placeholder
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    grndata
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
